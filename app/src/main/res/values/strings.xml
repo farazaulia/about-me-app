@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="faraz_aulia">Faraz Aulia</string>
+    <string name="nickname_edit_hint">What is your nickname?</string>
+    <string name="name">Faraz Aulia</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+        \n\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        \nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+        \nAt vero eos et accusam et justo duo dolores et ea rebum.
+        \n\nStet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        \n\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        \nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+        \nAt vero eos et accusam et justo duo dolores et ea rebum.
+        \n\nStet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    </string>
 </resources>
